@@ -1,6 +1,6 @@
 {
   "name": "TikTok.bot SB Import",
-  "latestVersion": "1.0.0-beta2",
+  "latestVersion": "1.0.0-beta1",
   "changelog": [
     "Initial beta release",
     "Added the new rexbordzUI support"
